@@ -671,3 +671,5 @@ apiCheck.globalConfig.disabled = true;
 This library was written by [Kent C. Dodds](https://twitter.com/kentcdodds). Again, big credits go to the team working
 on React for thinking up the api. This library was written from scratch, but I'd be lying if I didn't say that I
 referenced their functions a time or two.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wieldo/api-check/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
