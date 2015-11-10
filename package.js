@@ -4,7 +4,7 @@ var server = 'server';
 
 Package.describe({
     name: "wieldo:api-check",
-    summary: "Validate the api to your functions to help people use them correctly. This is pretty much React's propTypes without React.",
+    summary: "Validate the api to your functions to help people use them correctly.",
     version: "7.5.5",
 
     documentation: 'README.md',
